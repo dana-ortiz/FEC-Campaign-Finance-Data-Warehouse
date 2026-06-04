@@ -4,7 +4,7 @@
 
 * **Members:** Dana Ortiz, [dana.ortiz@gwu.edu](mailto:dana.ortiz@gwu.edu)
 * **Date:** May 2026
-* **Model Version:** 1.0
+* **Model Version:** 1.21
 * **License:** MIT
 * **Model Implementation Code:** [FEC Campaign Finance Data Warehouse](FEC-Campaign-Finance-Data-Warehouse.ipynb)
 
